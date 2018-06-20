@@ -1,5 +1,5 @@
 .dropdown-menu a:hover{
-    background-color:greenyellow ;
+    background-color:cadetblue ;
 }
 .h3{
     font-family: 'Poppins', sans-serif;
@@ -7,5 +7,9 @@
     text-shadow: 4px 4px 4px #aaa;
 }
 .hover:hover{
-    background-color: #bb45e5;
+    background-color: #e5df38;
+}
+.sameSize{
+    height: 100px;
+    width: auto;
 }
