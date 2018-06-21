@@ -30,3 +30,7 @@ button a:hover{
 button a:visited{
     color: #35ddff;
 }
+.gallerysize {
+width: 275px;
+height:196px;
+}
